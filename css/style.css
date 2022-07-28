@@ -657,7 +657,7 @@ section.contact .container .inputform textarea {
     z-index: 1001;
     width: 40%;
     height: 100%;
-    padding: 1rem;
+    padding: 0.1rem;
     padding-top: 5rem;
     transform: translateX(100%);
     transition: all .5s ease-in-out;
